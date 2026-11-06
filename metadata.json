@@ -1,0 +1,9 @@
+{
+  "name": "pik.AI.so - AI Art & Design",
+  "description": "An AI-powered creative suite that generates stunning images, logos, signatures, and typography. Greatly expanding every user's image and graphic design abilities and unlocking a digital world of endless possibilities.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
